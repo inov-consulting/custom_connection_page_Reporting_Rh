@@ -1,0 +1,8 @@
+{
+  "themes": [
+    {
+      "name": "Wenze UI",
+      "types": ["login","email"]
+    }
+  ]
+}
