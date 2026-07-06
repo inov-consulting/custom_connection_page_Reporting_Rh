@@ -78,7 +78,7 @@
 
       <div class="py-1 flex justify-center">
         <button  type="submit"
-                 class="w-full rounded-md bg-[#E09119] px-3 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#c77b07] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-600"
+                 class="w-full rounded-md bg-[#0c1b33] px-3 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#213453] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-600"
         >
             ${msg("doSubmit")}
         </button>
