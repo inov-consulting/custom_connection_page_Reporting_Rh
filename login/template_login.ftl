@@ -308,47 +308,38 @@
           <!-- RIGHT: Dark navy stats panel -->
           <div class="fc-right-panel fc-stats-panel">
 
+            <div class="fc-badge">
+              <span class="fc-badge-dot"></span>
+              Espace RH Sécurisé
+            </div>
+
             <div class="fc-portfolio-card">
-              <p class="fc-portfolio-label">Portefeuille Global</p>
-              <p class="fc-portfolio-amount">4 287 500 €</p>
-              <p class="fc-portfolio-trend">▲ +12,4 % ce trimestre</p>
-              <svg class="fc-sparkline" viewBox="0 0 280 44" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-                <defs>
-                  <linearGradient id="sparkFill" x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.20"/>
-                    <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
-                  </linearGradient>
-                </defs>
-                <path d="M0 40 C35 38 70 33 105 26 C140 19 175 12 210 8 C235 5 258 3 280 1" fill="none" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M0 40 C35 38 70 33 105 26 C140 19 175 12 210 8 C235 5 258 3 280 1 L280 44 L0 44 Z" fill="url(#sparkFill)"/>
-              </svg>
+              <p class="fc-portfolio-label">Heures suivies ce mois</p>
+              <p class="fc-portfolio-amount">3 240 h</p>
+              <p class="fc-portfolio-trend">▲ +6 % vs mois dernier</p>
             </div>
 
             <div class="fc-stats-grid">
               <div class="fc-stat-card">
-                <p class="fc-stat-label">Dossiers Actifs</p>
-                <p class="fc-stat-value">148</p>
-                <p class="fc-stat-sub">+3 ce mois</p>
+                <p class="fc-stat-label">Collaborateurs Actifs</p>
+                <p class="fc-stat-value">62</p>
+                <p class="fc-stat-sub">+4 ce mois</p>
               </div>
               <div class="fc-stat-card">
-                <p class="fc-stat-label">Rendement Moy.</p>
-                <p class="fc-stat-value">8,2 %</p>
-                <p class="fc-stat-sub">vs 6,1 % N-1</p>
+                <p class="fc-stat-label">Dossiers En Cours</p>
+                <p class="fc-stat-value">48</p>
+                <p class="fc-stat-sub">3 secteurs</p>
               </div>
               <div class="fc-stat-card">
-                <p class="fc-stat-label">Taux de Clôture</p>
-                <p class="fc-stat-value">94 %</p>
-                <p class="fc-stat-sub">Objectif : 90 %</p>
+                <p class="fc-stat-label">Taux de Validation</p>
+                <p class="fc-stat-value">91 %</p>
+                <p class="fc-stat-sub">vs 86 % N-1</p>
               </div>
             </div>
 
             <div class="fc-marketing">
-              <div class="fc-badge">
-                <span class="fc-badge-dot"></span>
-                Plateforme Sécurisée
-              </div>
-              <p class="fc-marketing-title">Pilotez votre activité<br>en toute confiance</p>
-              <p class="fc-marketing-sub">Gestion de portefeuilles, suivi des dossiers et reporting consolidé — réunis en un seul espace.</p>
+              <p class="fc-marketing-title">Pilotez la charge de vos équipes, en toute confiance</p>
+              <p class="fc-marketing-sub">Gestion des dossiers clients et pilotage des équipes réunis dans un seul espace.</p>
             </div>
 
           </div>
